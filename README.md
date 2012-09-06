@@ -1,4 +1,4 @@
 polloi
 ======
 
-A clean and simple questionnaire app designed for Android 4.0+.
+A clean and simple questionnaire app for Android 4.0+.
