@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<resources>
+    
+    <string name="app_name">Polloi</string>
+    <string name="title_survey_activity">Polloi</string>
+    <string name="title_survey_creator_activity">Create a new survey</string>
+    <string name="title_login_activity">Polloi</string>
+    
+    <string name="login_hint">Enter your ID</string>
+    <string name="login_button">Log in</string>
+    <string name="swipe_note_start">Swipe to the next page to begin the survey</string>
+    <string name="swipe_note_continue">Swipe to the next page to continue</string>
+    <string name="finish_button">I\'m done</string>
+    <string name="finish_title">Finish the survey</string>
+
+</resources>
